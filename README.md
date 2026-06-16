@@ -14,7 +14,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-suko__system-FFD700?style=for-the-badge&logo=firefox&logoColor=black)](https://suko-portifolio.onrender.com)
 [![Email](https://img.shields.io/badge/Email-jaohenrick04@gmail.com-00F0FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:jaohenrick04@gmail.com)
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Suko-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil-aqui](https://www.linkedin.com/in/joaoh-pereira/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suko-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com//in/joaoh-pereira/)
 
 </div>
 
